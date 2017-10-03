@@ -2,7 +2,7 @@
 
 This project contains code for [RabbitMQ tutorials](http://www.rabbitmq.com/getstarted.html) with
 their ports to various languages.
-<br/><a href="https://docs.pivotal.io/pivotalcf/1-12/pcf-release-notes/windows-rn.html" target="_blank">link</a>
+
 ## Languages
 
 The following ports are available:
